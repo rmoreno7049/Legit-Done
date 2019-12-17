@@ -1,0 +1,24 @@
+html{
+background-color: teal;
+background-size: 100%;
+background-size: auto;
+color:white;
+font-size: 120%;
+
+}
+h1,h2{
+	text-align: center;
+}
+
+ nav ul li {
+background-color: #fff;
+padding: 15px;
+float: left;
+list-style: none;
+position: relative;
+text-decoration: none;
+width: 250px;
+border-style: round;
+}
+	
+

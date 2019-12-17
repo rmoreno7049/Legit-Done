@@ -1,0 +1,28 @@
+@media (max-width: 480px) {
+  #drinks {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 481px) {
+  #drinks {
+    width: 20%;
+  }
+  #main {
+    width: 40%;
+  }
+
+  .tableContainer {
+    display: table;
+    border-spacing: 10px;
+  }
+
+  .tableRow {
+    display: table-row;
+  }
+
+  .tableCell {
+    vertical-align: top;
+    display: table-cell;
+  }
+}

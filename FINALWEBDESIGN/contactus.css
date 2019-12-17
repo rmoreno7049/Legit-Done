@@ -1,0 +1,25 @@
+html{
+background-image: url("images/doggies.png");
+background-size: auto,	auto,	100% auto;
+background-position: center,	center,	top center;
+background-repeat: repeat,	repeat,	repeat;
+background-attachment: fixed,	fixed,	fixed;
+text-align: center;
+color:red;
+}
+
+
+nav ul li {
+background-color: #fff;
+padding: 15px;
+float: left;
+list-style: none;
+position: relative;
+text-decoration: none;
+width: 250px;
+border-style: round;
+}
+
+p{
+	font-size: 30px
+}
