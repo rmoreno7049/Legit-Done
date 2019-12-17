@@ -1,0 +1,53 @@
+#name{
+	text-align: center;
+	color: red;
+}
+
+#future{
+	text-align: center;
+	color: red;
+}
+
+html{
+background-image: url("images/doggies.png");
+background-size: auto,	auto,	100% auto;
+background-position: center,	center,	top center;
+background-repeat: repeat,	repeat,	repeat;
+background-attachment: fixed,	fixed,	fixed;
+}
+p {
+	text-align: center;
+}
+ 
+ nav ul li {
+background-color: #fff;
+padding: 15px;
+float: left;
+list-style: none;
+position: relative;
+text-decoration: none;
+width: 250px;
+border-style: round;
+}
+
+{
+	body { 
+  background-color: #ffffff;
+  font-family:      bubbler one; 
+  font-size:        small;
+  margin:           0px;
+}
+header{
+  text-align:  center;
+
+}
+
+
+
+article address.author {
+  font-weight: bold;
+  font-style: normal;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin: 5px 0px;
+}
